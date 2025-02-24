@@ -7,6 +7,8 @@ public class CartPage {
 		
 		
 		System.out.println("Hi, this is the cart page");
+		System.out.println("The answer is"+1+2 );
 	}
+	
 
 }
