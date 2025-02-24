@@ -11,6 +11,9 @@ public class Loginpage {
 	 System.out.println(pwd);
 	 
 	 int i=20;
+	 int j=30;
+	 int k=50;
+	 
 		
 	}
 }
